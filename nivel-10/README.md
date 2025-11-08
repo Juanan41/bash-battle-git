@@ -1,16 +1,16 @@
 # nivel-10 - Bash Battle
 
 ## Archivos
-- Captura
-- de
-- pantalla10.1FALLO
-- 2025-11-08
-- 003605.png
-- Captura
-- de
-- pantalla10.2FALLO-2025-11-07
-- 235813.png
 
+_⚠️ No se encontró la imagen: 
+_⚠️ No se encontró la imagen: 
+_⚠️ No se encontró la imagen: 
+_⚠️ No se encontró la imagen: 
+_⚠️ No se encontró la imagen: 
+_⚠️ No se encontró la imagen: 
+_⚠️ No se encontró la imagen: 
+_⚠️ No se encontró la imagen: 
+_⚠️ No se encontró la imagen: 
 ## Descripción del proceso
 En este nivel fui probando los scripts y corrigiendo errores que aparecieron.
 
